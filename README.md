@@ -16,8 +16,6 @@ Added features:
 Other Stack features Used to build this app: CSS, HTML, JavaScripts, React hooks
 </p>
 
-</em></p> </pre> 
-
 Simple React Tictactoe Game against Computer
 <img src="./Screenshottictacwithcomp.png" />
 
