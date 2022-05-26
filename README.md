@@ -67,7 +67,7 @@ Simple React Tictactoe Game against Computer
 
 ## Improvements:
 
-Future Improvements to add in the Reacttictactoe App
+Future Improvements to add in the TicTacToeGame App
 * Add player name
 * set Timer to response
 * maintainance
